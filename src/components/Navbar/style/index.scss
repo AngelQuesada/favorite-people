@@ -1,0 +1,19 @@
+#root {
+
+  header {
+
+    &.MuiAppBar-root {
+      display: flex;
+      justify-content: space-between;
+      flex-direction: row;
+      align-items: center;
+    }
+
+    button.MuiButton-root { 
+      padding: 5px 10px;
+      height: 40px;
+      margin-right: 20px;
+      margin-bottom: 5px;
+    }
+  }
+}
